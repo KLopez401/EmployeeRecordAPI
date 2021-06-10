@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\offsure\\Documents\\PracticeProject\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj": {}
+    "C:\\Users\\offsure\\Documents\\PracticeProject\\Employee\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\offsure\\Documents\\PracticeProject\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj": {
+    "C:\\Users\\offsure\\Documents\\PracticeProject\\Employee\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\offsure\\Documents\\PracticeProject\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj",
+        "projectUniqueName": "C:\\Users\\offsure\\Documents\\PracticeProject\\Employee\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj",
         "projectName": "EmployeeRecordAPI",
-        "projectPath": "C:\\Users\\offsure\\Documents\\PracticeProject\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj",
+        "projectPath": "C:\\Users\\offsure\\Documents\\PracticeProject\\Employee\\EmployeeRecordAPI\\EmployeeRecordAPI\\EmployeeRecordAPI.csproj",
         "packagesPath": "C:\\Users\\offsure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\offsure\\Documents\\PracticeProject\\EmployeeRecordAPI\\EmployeeRecordAPI\\obj\\",
+        "outputPath": "C:\\Users\\offsure\\Documents\\PracticeProject\\Employee\\EmployeeRecordAPI\\EmployeeRecordAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\offsure\\AppData\\Roaming\\NuGet\\NuGet.Config",
